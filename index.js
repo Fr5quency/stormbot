@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer')
 function createBot() {
   const bot = mineflayer.createBot({
     host: 'stormsmps4.play.hosting',
-    port: 25575,
+    port: 25151,
     username: 'stormycore',
     version: '1.20.1',
     auth: 'offline'
