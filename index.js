@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer')
 
 function createBot() {
   const bot = mineflayer.createBot({
-    host: 'stormsmps4.play.hosting',
-    port: 25151,
+    host: 'stormSurvivals1.aternos.me',
+    port: 12311,
     username: 'stormycore',
     version: '1.20.1',
     auth: 'offline'
